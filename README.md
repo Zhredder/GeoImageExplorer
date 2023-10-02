@@ -42,8 +42,8 @@ To run the app using Android Studio, follow these steps:
 
 ### Usage
 
-Search for any location and get real time temperature data. 
-![LocationSearch]()
+Search for any location and get real time temperature data. <br><br>
+<img height="500px" src="https://github.com/Zhredder/GeoImageExplorer/blob/main/Location%20Search%20Preview.PNG">
 
 
 
