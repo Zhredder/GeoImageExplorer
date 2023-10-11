@@ -2,21 +2,15 @@
 
 An android app that lets you view any location in the world, with its temperature and snapshots of nearby locations.
 
-##### Table of Contents  
-
-
-
-<a name="headers"/>
-
 
 ### Table of Contents
 1. [Introduction](#Introduction) <a name="Introduction"/>
-2. <ins>Features<ins>
-3. <ins>Technology Stack<ins>
-4. <ins>Getting Started<ins>
-5. <ins>Usage<ins>
-6. <ins>Feedback<ins>
-7. <ins>Acknowledgements<ins>
+2. [Features](#Features) <a name="Features"/>
+3. [Technology Stack](#TechnologyStack) <a name="TechnologyStack"/>
+4. [Getting Started](#GettingStarted) <a name="GettingStarted"/>
+5. [Usage](#Usage) <a name="Usage"/>
+6. [Feedback](#Feedback) <a name="Feedback"/>
+7. [Acknowledgements](#Acknowledgements) <a name="Acknowledgements"/>
 
 ### Introduction 
 
@@ -68,5 +62,4 @@ I am always looking to improve. If you have any constructive criticism or feedba
 
 I would like to thank my project partner, Dylan Nunn, for putting in good effort towards this project. 
 
-## Headers
 
