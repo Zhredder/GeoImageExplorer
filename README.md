@@ -3,14 +3,14 @@
 An android app that lets you view any location in the world, with its temperature and snapshots of nearby locations.
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
+
+
+
 <a name="headers"/>
 
 
 ### Table of Contents
-1. <ins>Introduction<ins> <a name="headers"/>
+1. [Introduction](#Introduction) <a name="Introduction"/>
 2. <ins>Features<ins>
 3. <ins>Technology Stack<ins>
 4. <ins>Getting Started<ins>
@@ -18,7 +18,7 @@ An android app that lets you view any location in the world, with its temperatur
 6. <ins>Feedback<ins>
 7. <ins>Acknowledgements<ins>
 
-### Introduction (#headers)
+### Introduction 
 
 Developed as a part of our mobile development coursework, this Android application allows users to type in any location in the world, it then moves the camera to that location. It displays the current temperature there, and also snapshot images of nearby locations. It challenged us at every step, sharpening our problem solving and collaboration skills.
 
