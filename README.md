@@ -26,13 +26,13 @@ Developed as a part of our mobile development coursework, this Android applicati
 
 ### Technology Stack
 
-  This android app was built in java. It uses the API:
+  Built on the Android platform using Java. We integrated the following APIs:
   - OpenWeather (for the weather information) - https://openweathermap.org/
   - Windy (for the webcam) - https://api.windy.com/
 
 ### Getting Started
 
-For installation, simply clone the repository, basically download it. You will need software that can run these android apps. Android Studio is recommended. You can also use alternative android simulators, like Bluestacks. 
+For installation, simply clone or download the repository. You will need software that can run these android apps. Android Studio is recommended. You can also use alternative android simulators, like Bluestacks. 
 
 To run the app using Android Studio, follow these steps:
 
@@ -45,7 +45,7 @@ To run the app using Android Studio, follow these steps:
 
 Search for any location and get real time temperature data. <br><br>
 <img height="500px" src="https://github.com/Zhredder/GeoImageExplorer/blob/main/Location%20Search%20Preview.PNG"> <br> <br>
-Note: Currently the app only locates New Zealand locations. If you want to turn on global locations, you can do so by simply commenting out the code below which is in the "MapsActivity.java" file. It looks like this: 
+Important: The app is currently set to only search for locations within New Zealand. To enable global search, modify the following code in 'MapsActivity.java':"
 
  autocompleteFragment.setTypeFilter(TypeFilter.ADDRESS);
     	autocompleteFragment.setLocationBias(RectangularBounds.newInstance(
@@ -55,7 +55,7 @@ Note: Currently the app only locates New Zealand locations. If you want to turn 
 
 ### Feedback
 
-I am always looking to improve. If you have any constructive criticism or feedback for this project, then I would love to hear it!
+I am always looking to improve. If you have any constructive criticism or feedback for this project, then I would love to hear it! Feel free to open an issue or contact me directly through my website or through Github.
 
 
 ### Acknowledgements
