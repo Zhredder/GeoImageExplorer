@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AssignmentThree</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="GoogleApiKey">"AIzaSyA5pUxD_2Xi1s-bga4itPVaq-VblEHmxg8"</string>
+</resources>
